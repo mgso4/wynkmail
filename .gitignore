@@ -19,7 +19,10 @@ x64/
 x86/
 build/
 bld/
+<<<<<<< HEAD
+=======
 [Bb]in/
+>>>>>>> master
 [Oo]bj/
 
 # Visual Studo 2015 cache/options directory
